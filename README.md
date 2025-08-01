@@ -30,7 +30,7 @@ To get a local copy of this project up and running, follow these simple steps:
 
 Clone the repository:
 
-git clone [your-repository-url]
+git clone https://github.com/Cynthia-tech48/my-project-1.git
 
 Open the project:
 Navigate to the project directory and open the index.html file in your preferred web browser.
