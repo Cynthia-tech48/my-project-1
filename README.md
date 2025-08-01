@@ -39,4 +39,4 @@ Contact
 If you have any questions or would like to collaborate, feel free to reach out:
 
 Email: [cynthialarky48@gmail.com]
-GitHub: [github.com/cynthia_tech48]
+GitHub: [https://github.com/cynthia_tech48]
